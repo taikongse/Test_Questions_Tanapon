@@ -1,4 +1,3 @@
-// index.js
 function mostFrequent(arr) {
   let map = new Map();
   let maxCount = 0;
